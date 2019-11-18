@@ -1,0 +1,20 @@
+{
+  "name": "exercise-chai",
+  "version": "1.0.0",
+  "main": "exercise.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "dependencies": {
+    "mocha": "^6.2.2"
+  },
+  "description": ""
+}
