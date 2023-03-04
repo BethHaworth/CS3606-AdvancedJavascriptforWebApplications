@@ -14,7 +14,7 @@
     "chai": "^4.2.0"
   },
   "dependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^6.2.3"
   },
   "description": ""
 }
